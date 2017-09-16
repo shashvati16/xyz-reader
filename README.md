@@ -7,6 +7,8 @@ A simple RSS feed reader app featuring  featuring topics and banners which imple
 ![screen 2](https://user-images.githubusercontent.com/23104247/30245304-a5a28688-95a2-11e7-827d-03e16e67c785.PNG)
 ![screen 3](https://user-images.githubusercontent.com/23104247/30245201-fd0aba06-959f-11e7-92e1-2edfabbbf375.PNG)
 
+### Third Party Library :
+* okhttp3
 
 
 ## License
